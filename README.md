@@ -1,0 +1,2 @@
+# infraction-detection
+从视频流自动读取视频文件通过yolo检测写入数据库并通过前端自动展示的程序
